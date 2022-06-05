@@ -2,16 +2,16 @@
 # petunjuk menjalankan algoritma :
 # masukan beberapa kata dalam bahasa belanda, dan setiap katanya diberi spasi.
 # kata yang diterima :
-# HIJ
-# ZE
-# LIEFDE
-# KOPEN
+# VADER
+# MOEDER
+# MANGO
+# WORTEL
+# BINDEN
+# BOEK
+# VEST
 # ETEN
-# FILM
-# SALADE
-# SAP
-# FRUIT
-# TEKENING
+# WASSEN
+# LAZEN
 
 import string
 import streamlit as st
